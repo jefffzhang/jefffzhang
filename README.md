@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jefffzhang
 - 👀 I’m interested in Blockchain and anything to do with software development/engineering
 - 🌱 I’m currently a student at Carnegie Mellon
-- 💞️ I’m looking to collaborate on any web 3 or crypto projects
+- 💞️ I’m looking to collaborate
 - 📫 You can reach me by jjeffrey.zhang@gmail.com
 
 <!---
